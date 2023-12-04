@@ -12,7 +12,7 @@ public class CourseDBElement implements Comparable<CourseDBElement> {
         this.roomNum = room;
         this.instructorName = instructor;
     }
-    
+
     public CourseDBElement() {
         this.courseID = "";
         this.crn = 0;
